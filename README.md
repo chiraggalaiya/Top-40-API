@@ -11,7 +11,7 @@ Basic useful feature list:
 
 ## Setup
 
-Download the [top40.js](http://raw.githubusercontent.com/chiraggalaiya/top40api/master/top40.js) file and add the following code to your HTML file's HEAD tag:
+Download the [top40.js](http://raw.githubusercontent.com/chiraggalaiya/Top-40-API/master/top40.js) file and add the following code to your HTML file's HEAD tag:
 
 ```html
 <script src="top40.js"></script>

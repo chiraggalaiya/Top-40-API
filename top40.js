@@ -4,7 +4,7 @@ Top 40 API Developed And Built By Chirag Galaiya From http://chiragalaiya.uk/
 
 Top 40 Lists From BBC Radio 1
 
-Documentation : http://github.com/chiraggalaiya/top40api/blob/master/README.md
+Documentation : https://github.com/chiraggalaiya/Top-40-API/blob/master/README.md
 
 */
 
