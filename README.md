@@ -39,18 +39,18 @@ The *type* parameter is OPTIONAL and is for the *type* of chart. The default is 
 
 ## Methods
 All methods are listed below:
- * [`top40.getTitles()`](#getTitles)
- * [`top40.getTitle(position)`](#getTitle)
- * [`top40.getArtists()`](#getArtists)
- * [`top40.getArtist(position)`](#getArtist)
- * [`top40.getWeeksInChart()`](#getWeeksInChart)
- * [`top40.getWeekInChart(position)`](#getWeekInChart)
- * [`top40.getStates()`](#getStates)
- * [`top40.getState(position)`](#getState)
- * [`top40.getAlbumCovers()`](#getAlbumCovers)
- * [`top40.getAlbumCover(position)`](#getAlbumCover)
- * [`top40.getMovements()`](#getMovements)
- * [`top40.getMovement(position)`](#getMovement)
+ * [`top40.getTitles()`](#gettitles)
+ * [`top40.getTitle(position)`](#gettitle)
+ * [`top40.getArtists()`](#getartists)
+ * [`top40.getArtist(position)`](#getartist)
+ * [`top40.getWeeksInChart()`](#getweeksinchart)
+ * [`top40.getWeekInChart(position)`](#getweekinchart)
+ * [`top40.getStates()`](#getstates)
+ * [`top40.getState(position)`](#getstate)
+ * [`top40.getAlbumCovers()`](#getalbumcovers)
+ * [`top40.getAlbumCover(position)`](#getalbumcover)
+ * [`top40.getMovements()`](#getmovements)
+ * [`top40.getMovement(position)`](#getmovement)
 
 ## getTitles
 This function will return an *array* which will contain all 40 titles (array[0] = 1st title, array[39] = 40th title)
